@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <link href="http://fonts.googleapis.com/css?family=Source+Sans+Pro:400,700" rel="stylesheet" type="text/css"> 
     <!--<link rel="stylesheet" href="http://code.jquery.com/mobile/1.4.2/jquery.mobile-1.4.2.min.css" />-->
-	<link rel="stylesheet" href="theme/graphite/generated/water/jquery.mobile-1.3.1.css">
+	<link rel="stylesheet" href="theme/water/jquery.mobile-1.3.1.css">
 	<link rel="stylesheet" href="css/style.css">
     <script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="http://code.jquery.com/mobile/1.3.1/jquery.mobile-1.3.1.min.js"></script>
