@@ -1,0 +1,45 @@
+body {
+	font-family: 'Source Sans Pro', sans-serif;
+	font-size: 1em;
+	font-weight: normal;
+}
+
+#american_results,
+#national_results {
+	width: 48%;
+	float: left;
+}
+
+#american_results ul,
+#national_results ul {
+}
+
+#american_results ul li:first-child,
+#national_results ul li:first-child {
+	list-style: none;
+	font-size: 20px;
+}
+span.home:before {
+	content: '@';
+}
+#notification {
+	display: none;
+}
+.success {
+	color: #FFF;
+	background-color: #5CB85C;
+	border-color: #4CAE4C;
+	display: inline-block;
+	padding: 6px 12px;
+	font-size: 20px;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	text-shadow: 1px 1px 1px #333;
+	border-radius: 8px;
+	max-width: 80%;
+}
+.pagination.second .ui-mini .ui-btn-inner {
+	padding: .55em 10.70px .5em;
+}
