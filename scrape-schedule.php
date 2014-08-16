@@ -71,7 +71,7 @@
 		// console.log(current_spread_date);
 	
 		$(".pagination a").click(function(e) {
-			$("#schedule_results").html('<img src="ajax-loader.gif">');
+			$("#schedule_results").html('<img src="img/ajax-loader.gif">');
 			$("#pickset-week").attr('value', $(this).attr('href'));
 			current_spread_date = week_array[$(this).attr('href')]; // set spread date to week that's clicked
 			console.log(current_spread_date);
